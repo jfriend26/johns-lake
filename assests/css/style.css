@@ -9,6 +9,17 @@
   background-color: white;
   margin-top: 10px;
 }
+.nav {
+  font-family: roboto sans-serif;
+  font-size: 14;
+  color: black;
+}
+.nav item {
+}
+.nav link {
+}
+.nav ul {
+}
 
 .contanier-fluid-paragraph {
   font-family: roboto sans-serif;
