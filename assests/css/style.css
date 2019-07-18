@@ -9,18 +9,19 @@
   background-color: white;
   margin-top: 10px;
 }
-.nav {
-  font-family: roboto sans-serif;
-  font-size: 14;
-  color: black;
+.nav justify-content-center {
+  text-align: center;
+  font-size: 16;
+  text-decoration-color: #000;
+  border: 0;
+  background-color: white;
 }
-.nav item {
+.nav-ul {
+  padding: 8px;
 }
-.nav link {
+a.nav-link {
+  font-weight: bold;
 }
-.nav ul {
-}
-
 .contanier-fluid-paragraph {
   font-family: roboto sans-serif;
   font-size: 12;
