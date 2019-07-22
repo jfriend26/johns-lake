@@ -1,38 +1,85 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap"100,200,300,400,500,600,700');
 
-.header {
+.header h1 {
   text-align: center;
   font-family: roboto sans-serif;
   font-weight: 100;
   font-size: 49;
+  text-decoration-line: underline;
   color: #000;
   background-color: white;
   margin-top: 10px;
 }
-.nav justify-content-center {
+
+/*---------------nav---------------------*/
+
+ul.nav.justify-content-center {
   text-align: center;
   font-size: 16;
   text-decoration-color: #000;
   border: 0;
   background-color: white;
+  text-decoration-line: underline;
 }
-.nav-ul {
-  padding: 8px;
+li.nav-item {
+  text-decoration-line: underline;
+  color: #000;
 }
 a.nav-link {
   font-weight: bold;
 }
-.contanier-fluid-paragraph {
+a {
+  color: #000;
+}
+.paragraph {
   font-family: roboto sans-serif;
   font-size: 12;
   color: #000;
-  padding-left: 20px;
-  padding-left: 20px;
 }
-.contanier-fluid-gallery {
+p {
+  width: 100;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+/*---------------gallery---------------------*/
+
+.gallery h2 {
   text-align: center;
   font-family: roboto sans-serif;
   font-weight: 200;
   font-size: 32px;
   margin-bottom: 10px;
+}
+img {
+  height: 94vh;
+  width: 94vw;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*---------------contact---------------------*/
+.contact h3 {
+  text-align: center;
+  font-family: roboto sans-serif;
+  font-size: 16;
+  color: #000;
+  background-color: white;
+  margin-top: 10px;
+}
+p {
+  font-size: 20px;
+  font-family: roboto sans-serif;
+}
+
+form {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.paragraph {
+  font-family: roboto sans-serif;
+  font-size: 14px;
 }
