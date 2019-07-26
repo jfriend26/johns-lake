@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap"100,200,300,400,500,600,700');
 
-.header h1 {
+.h1 {
   text-align: center;
   font-family: roboto sans-serif;
   font-weight: 100;
-  font-size: 49;
+  font-size: 49px;
   text-decoration-line: underline;
   color: #000;
   background-color: white;
@@ -15,7 +15,7 @@
 
 ul.nav.justify-content-center {
   text-align: center;
-  font-size: 16;
+  font-size: 16px;
   text-decoration-color: #000;
   border: 0;
   background-color: white;
@@ -33,18 +33,18 @@ a {
 }
 .paragraph {
   font-family: roboto sans-serif;
-  font-size: 16;
+  font-size: 16px;
   color: #000;
 }
 p {
-  width: 100;
+  width: 100%;
   margin-left: 3%;
   margin-right: 3%;
 }
 
 /*---------------gallery---------------------*/
 
-.gallery h2 {
+.h2 {
   text-align: center;
   font-family: roboto sans-serif;
   font-weight: 200;
@@ -61,10 +61,10 @@ img {
 }
 
 /*---------------contact---------------------*/
-.contact h3 {
+.h3 {
   text-align: center;
   font-family: roboto sans-serif;
-  font-size: 16;
+  font-size: 16px;
   color: #000;
   background-color: white;
   margin-top: 10px;
