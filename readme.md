@@ -29,7 +29,7 @@ Here is my mock up click here.
 
 * Font Awesome
 
-- [font awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css)
+- (https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css)
 
 * Font Awesome icons
 
