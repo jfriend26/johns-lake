@@ -25,7 +25,7 @@ Here is my mock up click here.
 * Css 3
 * Bootstrap 4
 
-- [bootstrap](https:www.://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css)
+- (https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css)
 
 * Font Awesome
 
