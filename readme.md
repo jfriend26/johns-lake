@@ -10,7 +10,7 @@ This webpage is for people who are interested in joining the syndicate. I have k
 - As a user you can scroll and see gallery.
 - As a user you can get in contact.
 
-Here is my mock up click here.
+Here is my mock up click here.()
 
 # Features
 
@@ -41,8 +41,9 @@ used googel dev tools to check how the page went as well as validator to check t
 
 # Deployment
 
-I used vs code and pushed my code to my github repository
-Credits
+I used vs code and pushed my code to my github repository.
+
+#Credits
 
 # Content
 
