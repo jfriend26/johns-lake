@@ -23,13 +23,9 @@ Here is my mock up click here.
 - HTML 5
 
 * Css 3
-* Bootstrap 4
+* Bootstrap 4 cdn
 
-- (https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css)
-
-* Font Awesome
-
-- (https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css)
+- Font Awesome cdn
 
 * Font Awesome icons
 
