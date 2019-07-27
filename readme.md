@@ -43,7 +43,7 @@ used googel dev tools to check how the page went as well as validator to check t
 
 I used vs code and pushed my code to my github repository.
 
-#Credits
+# Credits
 
 # Content
 
