@@ -22,14 +22,14 @@ Here is my mock up click here.
 
 - HTML 5
 - Css 3
-- Bootstrap 4
-- Font Awesome
-- Font Awesome icons
-- Validators for html css
+- Bootstrap 4 \*[bootstrap](https:www.://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css)
+- Font Awesome \*[font awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css)
+- Font Awesome icons \*[font awesome](https://fontawesome.com/v4.7.0/icons/)
+- Validators for html css \*[validator](https://validator.w3.org)
 
 # Testing
 
-used googel dev tools to check how the page went. As well as validator and debugger in vs code.
+used googel dev tools to check how the page went as well as validator to check the syntax.
 
 # Deployment
 
@@ -40,6 +40,8 @@ Credits
 
 - about the lake was my own made up information
 - pictures came from of the internet from carp feed
+
+* [carpfeed](https:www.carpfeed.com)
 
 # Acknowlegments
 
