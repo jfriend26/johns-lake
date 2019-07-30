@@ -2,7 +2,7 @@
 
 .h1 {
   text-align: center;
-  font-family: roboto sans-serif;
+  font-family: Roboto sans-serif;
   font-weight: 100;
   font-size: 49px;
   text-decoration-line: underline;
@@ -32,7 +32,7 @@ a {
   color: #000;
 }
 .paragraph {
-  font-family: roboto sans-serif;
+  font-family: Roboto sans-serif;
   font-size: 16px;
   color: #000;
 }
@@ -45,7 +45,7 @@ p {
 
 .h2 {
   text-align: center;
-  font-family: roboto sans-serif;
+  font-family: Roboto sans-serif;
   font-weight: 200;
   font-size: 32px;
   margin-bottom: 10px;
@@ -62,7 +62,7 @@ img {
 /*---------------contact---------------------*/
 .h3 {
   text-align: center;
-  font-family: roboto sans-serif;
+  font-family: Roboto sans-serif;
   font-size: 16px;
   color: #000;
   background-color: white;
@@ -70,7 +70,7 @@ img {
 }
 p {
   font-size: 16px;
-  font-family: roboto sans-serif;
+  font-family: Roboto sans-serif;
 }
 
 form {
@@ -100,7 +100,7 @@ form {
 }
 /*---------------footer---------------------*/
 p {
-  font-family: roboto sans-serif;
+  font-family: Roboto sans-serif;
   font-size: 16px;
   text-align: center;
 }
