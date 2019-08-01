@@ -2,7 +2,11 @@
 
 # Johns lake
 
+<<<<<<< HEAD
 Is about a fishing lake where people can join the syndicate and give people an insight as what it has to offer. Johns lake is a lake which is mainly a carp fishing syndicate and is advertised to people who want to join a carp fishing syndicate in sandford. The web page is very simple but eye catching and is made for people to get in contact with the owner.
+=======
+Is about a fishing lake where people can join the syndicate and give people an insight as what it has to offer. Johns lake is a lake which is mainly a carp fishing sydicate and is advertised to people who want to join a carp fishing syndicate in sandford. The web page is very simple but eye catching and is made for people to get in contact with the owner.
+>>>>>>> 11c1e35a2c5c2b13e3d3e1134943372e40fd8570
 
 # Ux
 
