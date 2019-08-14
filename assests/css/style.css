@@ -35,6 +35,7 @@ a.nav-link {
 }
 a {
   color: #000;
+  word-spacing: 8px;
 }
 .paragraph {
   font-family: Roboto, sans-serif;
@@ -72,6 +73,7 @@ img {
 }
 
 /*---------------contact---------------------*/
+
 .h3 {
   text-align: center;
   font-family: Roboto, sans-serif;
