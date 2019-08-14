@@ -29,6 +29,8 @@ ul.nav.justify-content-center {
 li.nav-item {
   text-decoration-line: underline;
   color: #000;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 a.nav-link {
   font-weight: bold;
