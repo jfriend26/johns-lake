@@ -26,13 +26,11 @@ This webpage is for people who are interested in joining the syndicate. I have k
 
 * Css 3
 
-* Bootstrap 4 cdn
+* [ Bootstrap 4 ](https://getbootstrap.com/)
 
-- Font Awesome cdn
+- [ Font Awesome ](https://www.bootstrapcdn.com/fontawesome/)
 
-* Font Awesome icons
-
-- [font awesome](https://fontawesome.com/v4.7.0/icons/)
+- [Font awesome](https://fontawesome.com/v4.7.0/icons/)
 
 * Validators for html css
 
@@ -40,21 +38,22 @@ This webpage is for people who are interested in joining the syndicate. I have k
 
 # Testing
 
-- used a validator to check the syntax.
+- I used googel chrome developer tools to check different size view ports for mobile and desktop view to see how resposive they where and had to change the margin around my images as it had to much space around them.
 
 # Deployment
 
-- I used vs code and pushed my code to my github repository.
-
-# Credits
+- I used vs code and pushed my code to my github repository. here is my github [john-friend](https://github.com/john-friend/johns-lake)
 
 # Content
 
-- about the lake was my own made up information
-- pictures came from of the internet from carp feed
+- about the lake was my own made up information.
+- pictures came from of the internet from carp feed.
 
-* [carpfeed](https:www.carpfeed.com)
+* [sticky baits](https://stickybaits.com/myles-gibson/)
+* [carp feed][https://www.carpfeed.com/fishing-news/article/amazing-47lb-linear-after-heart-stopping-battle]
 
 # Acknowlegments
 
-The code institute all of the tutors and my mentor Antonija simic for guiding me and giving the advise what i needed.
+- [code institute](https://codeinstitute.net/)
+- [Antonija Šimić](https://github.com/tonkec)
+  To the code insitute and my mentor antonija simic
